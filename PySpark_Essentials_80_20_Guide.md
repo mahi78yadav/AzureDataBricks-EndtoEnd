@@ -1,4 +1,4 @@
-# 🍬 PySpark Essentials for College Students  
+#  PySpark Essentials for College Students  
 ### The Sweet 80/20 Guide (Most Used Concepts + Perfect Explanations)
 
 > **Goal**: Learn the 20% of PySpark that you will use 80% of the time.  
@@ -427,10 +427,3 @@ Once these become muscle memory, advanced topics will feel easy.
 
 ---
 
-**Happy Learning!**  
-Made with ❤️ for college students who want to learn smart, not hard.
-
----
-
-*File ready for GitHub upload.*  
-*Feel free to star ⭐ and share with your friends.*
